@@ -1,5 +1,5 @@
 window.addEventListener('scroll', function() {
-  var element = document.querySelector('.your-element-class');
+  var element = document.querySelector('.viewport-animator');
   var position = element.getBoundingClientRect();
 
   // checking whether fully visible
